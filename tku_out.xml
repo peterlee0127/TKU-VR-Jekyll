@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node12">
+  <panorama id="node1">
+    <view fovmode="0" pannorth="305">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="121.44750123372955" latitude="25.173335655403513"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="102" target="" pan="-53.7476" skinid="" url="{node2}" id="Point01" tilt="22.2793"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/101_o_0.jpg" prev5url="images/101_o_preview_5.jpg" prev4url="images/101_o_preview_4.jpg" prev3url="images/101_o_preview_3.jpg" prev2url="images/101_o_preview_2.jpg" prev1url="images/101_o_preview_1.jpg" prev0url="images/101_o_preview_0.jpg" tile5url="images/101_o_5.jpg" tilesize="2000" tile4url="images/101_o_4.jpg" tile3url="images/101_o_3.jpg" tilescale="1.005" tile2url="images/101_o_2.jpg" tile1url="images/101_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2">
+    <view fovmode="0" pannorth="95">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="121.44747644662857" latitude="25.173516844076996"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="101" target="" pan="-100.338" skinid="" url="{node1}" id="Point01" tilt="-26.435"/>
+      <hotspot title="104" target="" pan="83.49769999999999" skinid="" url="{node4}" id="Point02" tilt="-3.09275"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/102_o_0.jpg" prev5url="images/102_o_preview_5.jpg" prev4url="images/102_o_preview_4.jpg" prev3url="images/102_o_preview_3.jpg" prev2url="images/102_o_preview_2.jpg" prev1url="images/102_o_preview_1.jpg" prev0url="images/102_o_preview_0.jpg" tile5url="images/102_o_5.jpg" tilesize="2000" tile4url="images/102_o_4.jpg" tile3url="images/102_o_3.jpg" tilescale="1.005" tile2url="images/102_o_2.jpg" tile1url="images/102_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node4">
+    <view fovmode="0" pannorth="89">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="121.44752740859985" latitude="25.173686766360483"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="102" target="" pan="176.72" skinid="" url="{node2}" id="Point01" tilt="-25.8196"/>
+      <hotspot title="105" target="" pan="32.3391" skinid="" url="{node9}" id="Point02" tilt="-17.1019"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/104_o_0.jpg" prev5url="images/104_o_preview_5.jpg" prev4url="images/104_o_preview_4.jpg" prev3url="images/104_o_preview_3.jpg" prev2url="images/104_o_preview_2.jpg" prev1url="images/104_o_preview_1.jpg" prev0url="images/104_o_preview_0.jpg" tile5url="images/104_o_5.jpg" tilesize="2000" tile4url="images/104_o_4.jpg" tile3url="images/104_o_3.jpg" tilescale="1.005" tile2url="images/104_o_2.jpg" tile1url="images/104_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node9">
+    <view fovmode="0" pannorth="84.5">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="121.44758641719818" latitude="25.17370861349403"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="104" target="" pan="-177.003" skinid="" url="{node4}" id="Point01" tilt="-25.8813"/>
+      <hotspot title="106" target="" pan="84.1022" skinid="" url="{node6}" id="Point02" tilt="-5.87218"/>
+      <hotspot title="1-1garden" target="" pan="-15.3618" skinid="" url="{node11}" id="Point03" tilt="0.848202"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/105_o_0.jpg" prev5url="images/105_o_preview_5.jpg" prev4url="images/105_o_preview_4.jpg" prev3url="images/105_o_preview_3.jpg" prev2url="images/105_o_preview_2.jpg" prev1url="images/105_o_preview_1.jpg" prev0url="images/105_o_preview_0.jpg" tile5url="images/105_o_5.jpg" tilesize="2000" tile4url="images/105_o_4.jpg" tile3url="images/105_o_3.jpg" tilescale="1.005" tile2url="images/105_o_2.jpg" tile1url="images/105_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node6">
+    <view fovmode="0" pannorth="138.5">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="121.44746035337448" latitude="25.17385911586321"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="105" target="" pan="-18.3923" skinid="" url="{node9}" id="Point01" tilt="-6.65423"/>
+      <hotspot title="107" target="" pan="63.5016" skinid="" url="{node7}" id="Point02" tilt="-15.539"/>
+      <hotspot title="1-1begin" target="" pan="122.589" skinid="" url="{node10}" id="Point03" tilt="-2.5809"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/106_o_0.jpg" prev5url="images/106_o_preview_5.jpg" prev4url="images/106_o_preview_4.jpg" prev3url="images/106_o_preview_3.jpg" prev2url="images/106_o_preview_2.jpg" prev1url="images/106_o_preview_1.jpg" prev0url="images/106_o_preview_0.jpg" tile5url="images/106_o_5.jpg" tilesize="2000" tile4url="images/106_o_4.jpg" tile3url="images/106_o_3.jpg" tilescale="1.005" tile2url="images/106_o_2.jpg" tile1url="images/106_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node7">
+    <view fovmode="0" pannorth="188.5">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="121.44754886627197" latitude="25.173893100243436"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="106" target="" pan="-102.901" skinid="" url="{node6}" id="Point01" tilt="-22.3903"/>
+      <hotspot title="105" target="" pan="-36.5183" skinid="" url="{node9}" id="Point02" tilt="-15.0813"/>
+      <hotspot title="1-1begin" target="" pan="153.969" skinid="" url="{node10}" id="Point03" tilt="3.7903"/>
+      <hotspot title="2-1begin" target="" pan="81.9689" skinid="" url="{node19}" id="Point04" tilt="13.7475"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/107_o_0.jpg" prev5url="images/107_o_preview_5.jpg" prev4url="images/107_o_preview_4.jpg" prev3url="images/107_o_preview_3.jpg" prev2url="images/107_o_preview_2.jpg" prev1url="images/107_o_preview_1.jpg" prev0url="images/107_o_preview_0.jpg" tile5url="images/107_o_5.jpg" tilesize="2000" tile4url="images/107_o_4.jpg" tile3url="images/107_o_3.jpg" tilescale="1.005" tile2url="images/107_o_2.jpg" tile1url="images/107_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node10">
+    <view fovmode="0" pannorth="37">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="121.4474469423294" latitude="25.17415041024345"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="107" target="" pan="156.022" skinid="" url="{node7}" id="Point01" tilt="-2.1419"/>
+      <hotspot title="106" target="" pan="153.084" skinid="" url="{node6}" id="Point02" tilt="-2.86685"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/1-1begin_o_0.jpg" prev5url="images/1-1begin_o_preview_5.jpg" prev4url="images/1-1begin_o_preview_4.jpg" prev3url="images/1-1begin_o_preview_3.jpg" prev2url="images/1-1begin_o_preview_2.jpg" prev1url="images/1-1begin_o_preview_1.jpg" prev0url="images/1-1begin_o_preview_0.jpg" tile5url="images/1-1begin_o_5.jpg" tilesize="2000" tile4url="images/1-1begin_o_4.jpg" tile3url="images/1-1begin_o_3.jpg" tilescale="1.005" tile2url="images/1-1begin_o_2.jpg" tile1url="images/1-1begin_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node11">
+    <view fovmode="0" pannorth="180">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="121.44843399524689" latitude="25.17397077879124"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="105" target="" pan="-97.349" skinid="" url="{node9}" id="Point01" tilt="-3.49487"/>
+      <hotspot title="1-2" target="" pan="92.85939999999999" skinid="" url="{node12}" id="Point02" tilt="-7.55886"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/1-1garden_o_0.jpg" prev5url="images/1-1garden_o_preview_5.jpg" prev4url="images/1-1garden_o_preview_4.jpg" prev3url="images/1-1garden_o_preview_3.jpg" prev2url="images/1-1garden_o_preview_2.jpg" prev1url="images/1-1garden_o_preview_1.jpg" prev0url="images/1-1garden_o_preview_0.jpg" tile5url="images/1-1garden_o_5.jpg" tilesize="2000" tile4url="images/1-1garden_o_4.jpg" tile3url="images/1-1garden_o_3.jpg" tilescale="1.005" tile2url="images/1-1garden_o_2.jpg" tile1url="images/1-1garden_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node12">
+    <view fovmode="0" pannorth="182.5">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="121.44865930080414" latitude="25.174029037669587"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="1-1garden" target="" pan="-93.7478" skinid="" url="{node11}" id="Point01" tilt="-2.82486"/>
+      <hotspot title="1-3garden" target="" pan="91.2176" skinid="" url="{node13}" id="Point02" tilt="3.10642"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/1-2_o_0.jpg" prev5url="images/1-2_o_preview_5.jpg" prev4url="images/1-2_o_preview_4.jpg" prev3url="images/1-2_o_preview_3.jpg" prev2url="images/1-2_o_preview_2.jpg" prev1url="images/1-2_o_preview_1.jpg" prev0url="images/1-2_o_preview_0.jpg" tile5url="images/1-2_o_5.jpg" tilesize="2000" tile4url="images/1-2_o_4.jpg" tile3url="images/1-2_o_3.jpg" tilescale="1.005" tile2url="images/1-2_o_2.jpg" tile1url="images/1-2_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node13">
+    <view fovmode="0" pannorth="4.5">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="121.44878268241882" latitude="25.174111571032952"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="1-2" target="" pan="70.97190000000001" skinid="" url="{node12}" id="Point01" tilt="-2.77998"/>
+      <hotspot title="1-4garden" target="" pan="-68.0198" skinid="" url="{node14}" id="Point02" tilt="0.0395243"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/1-3garden_o_0.jpg" prev5url="images/1-3garden_o_preview_5.jpg" prev4url="images/1-3garden_o_preview_4.jpg" prev3url="images/1-3garden_o_preview_3.jpg" prev2url="images/1-3garden_o_preview_2.jpg" prev1url="images/1-3garden_o_preview_1.jpg" prev0url="images/1-3garden_o_preview_0.jpg" tile5url="images/1-3garden_o_5.jpg" tilesize="2000" tile4url="images/1-3garden_o_4.jpg" tile3url="images/1-3garden_o_3.jpg" tilescale="1.005" tile2url="images/1-3garden_o_2.jpg" tile1url="images/1-3garden_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node14">
+    <view fovmode="0" pannorth="89">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="1-3garden" target="" pan="-167.39" skinid="" url="{node13}" id="Point01" tilt="-7.83157"/>
+      <hotspot title="1-5garden" target="" pan="-2.33756" skinid="" url="{node15}" id="Point02" tilt="6.47867"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/1-4garden_o_0.jpg" prev5url="images/1-4garden_o_preview_5.jpg" prev4url="images/1-4garden_o_preview_4.jpg" prev3url="images/1-4garden_o_preview_3.jpg" prev2url="images/1-4garden_o_preview_2.jpg" prev1url="images/1-4garden_o_preview_1.jpg" prev0url="images/1-4garden_o_preview_0.jpg" tile5url="images/1-4garden_o_5.jpg" tilesize="2000" tile4url="images/1-4garden_o_4.jpg" tile3url="images/1-4garden_o_3.jpg" tilescale="1.005" tile2url="images/1-4garden_o_2.jpg" tile1url="images/1-4garden_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node15">
+    <view fovmode="0" pannorth="0.5">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="121.44930839538574" latitude="25.174334896324225"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="1-4garden" target="" pan="72.8262" skinid="" url="{node14}" id="Point01" tilt="-11.4078"/>
+      <hotspot title="1-7garden" target="" pan="-102.939" skinid="" url="{node16}" id="Point02" tilt="8.37872"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/1-5garden_o_0.jpg" prev5url="images/1-5garden_o_preview_5.jpg" prev4url="images/1-5garden_o_preview_4.jpg" prev3url="images/1-5garden_o_preview_3.jpg" prev2url="images/1-5garden_o_preview_2.jpg" prev1url="images/1-5garden_o_preview_1.jpg" prev0url="images/1-5garden_o_preview_0.jpg" tile5url="images/1-5garden_o_5.jpg" tilesize="2000" tile4url="images/1-5garden_o_4.jpg" tile3url="images/1-5garden_o_3.jpg" tilescale="1.005" tile2url="images/1-5garden_o_2.jpg" tile1url="images/1-5garden_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node16">
+    <view fovmode="0" pannorth="12">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="121.44954442977905" latitude="25.174398009919358"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="1-5garden" target="" pan="94.98269999999999" skinid="" url="{node15}" id="Point01" tilt="1.50687"/>
+      <hotspot title="1-6garden" target="" pan="161.257" skinid="" url="{node17}" id="Point02" tilt="-12.0335"/>
+      <hotspot title="1-endgarden" target="" pan="-85.196" skinid="" url="{node18}" id="Point03" tilt="-2.80431"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/1-7garden_o_0.jpg" prev5url="images/1-7garden_o_preview_5.jpg" prev4url="images/1-7garden_o_preview_4.jpg" prev3url="images/1-7garden_o_preview_3.jpg" prev2url="images/1-7garden_o_preview_2.jpg" prev1url="images/1-7garden_o_preview_1.jpg" prev0url="images/1-7garden_o_preview_0.jpg" tile5url="images/1-7garden_o_5.jpg" tilesize="2000" tile4url="images/1-7garden_o_4.jpg" tile3url="images/1-7garden_o_3.jpg" tilescale="1.005" tile2url="images/1-7garden_o_2.jpg" tile1url="images/1-7garden_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node17">
+    <view fovmode="0" pannorth="90">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="121.44959807395935" latitude="25.174232943524625"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="1-7garden" target="" pan="56.9769" skinid="" url="{node16}" id="Point01" tilt="2.95693"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/1-6garden_o_0.jpg" prev5url="images/1-6garden_o_preview_5.jpg" prev4url="images/1-6garden_o_preview_4.jpg" prev3url="images/1-6garden_o_preview_3.jpg" prev2url="images/1-6garden_o_preview_2.jpg" prev1url="images/1-6garden_o_preview_1.jpg" prev0url="images/1-6garden_o_preview_0.jpg" tile5url="images/1-6garden_o_5.jpg" tilesize="2000" tile4url="images/1-6garden_o_4.jpg" tile3url="images/1-6garden_o_3.jpg" tilescale="1.005" tile2url="images/1-6garden_o_2.jpg" tile1url="images/1-6garden_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node18">
+    <view fovmode="0" pannorth="339.5">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="121.44981265068054" latitude="25.174475688145417"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="1-7garden" target="" pan="66.4534" skinid="" url="{node16}" id="Point01" tilt="-6.2828"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/1-endgarden_o_0.jpg" prev5url="images/1-endgarden_o_preview_5.jpg" prev4url="images/1-endgarden_o_preview_4.jpg" prev3url="images/1-endgarden_o_preview_3.jpg" prev2url="images/1-endgarden_o_preview_2.jpg" prev1url="images/1-endgarden_o_preview_1.jpg" prev0url="images/1-endgarden_o_preview_0.jpg" tile5url="images/1-endgarden_o_5.jpg" tilesize="2000" tile4url="images/1-endgarden_o_4.jpg" tile3url="images/1-endgarden_o_3.jpg" tilescale="1.005" tile2url="images/1-endgarden_o_2.jpg" tile1url="images/1-endgarden_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node19">
+    <view fovmode="0" pannorth="56.5">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="121.4478063583374" latitude="25.17400961804657"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="1-1begin" target="" pan="89.2938" skinid="" url="{node10}" id="Point01" tilt="-6.12691"/>
+      <hotspot title="106" target="" pan="172.17" skinid="" url="{node6}" id="Point02" tilt="0"/>
+      <hotspot title="104" target="" pan="198.476" skinid="" url="{node4}" id="Point03" tilt="0"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/2-1begin_o_0.jpg" prev5url="images/2-1begin_o_preview_5.jpg" prev4url="images/2-1begin_o_preview_4.jpg" prev3url="images/2-1begin_o_preview_3.jpg" prev2url="images/2-1begin_o_preview_2.jpg" prev1url="images/2-1begin_o_preview_1.jpg" prev0url="images/2-1begin_o_preview_0.jpg" tile5url="images/2-1begin_o_5.jpg" tilesize="2000" tile4url="images/2-1begin_o_4.jpg" tile3url="images/2-1begin_o_3.jpg" tilescale="1.005" tile2url="images/2-1begin_o_2.jpg" tile1url="images/2-1begin_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+</tour>
