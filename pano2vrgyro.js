@@ -15,6 +15,10 @@ function pano2vrGyro(panoObject,containerId) {
 
 	this.enable=function() {
 		if (isDeviceEnabled && !isEnabled) {
+			DeviceMotionEvent.requestPermission()
+.then(response => {
+  if (response == 'granted') {
+	      window.addEventListener('devicemotion', (e) => {
 			window.addEventListener("deviceorientation", handleDeviceOrientation, true);
 			container.addEventListener("touchstart", handleTouchStart, true);
 			container.addEventListener("touchend", handleTouchEnd, true);		
@@ -24,6 +28,10 @@ function pano2vrGyro(panoObject,containerId) {
 			container.addEventListener("mousemove", handleTouchStart, true);
 			container.addEventListener("mouseup", handleTouchEnd, true);		
 			isEnabled = true;
+		       })
+  }
+})
+.catch(console.error)
 		}
 		return isEnabled;
 	}
